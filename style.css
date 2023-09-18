@@ -35,7 +35,13 @@ body {
     padding: 20px;
     background-color: #FFF2CC;
 
-    img {
-        float: left;
-    }
+
+}
+
+#iphone15 img,
+#iphone14 img,
+#iphone13 img {
+    float: left;
+    width: 100%;
+    height: auto
 }
