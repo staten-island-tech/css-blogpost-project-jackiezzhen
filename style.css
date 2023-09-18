@@ -1,18 +1,41 @@
-body{
-    background-color: rgb(111, 190, 255);
-    font-size: 40px;
+body {
+    background-color: #EEE1C6;
+    font-size: 18px;
 }
 
-.whatdoyouwant {
-    font-size: 14px;
+
+#h {
+    font-family: "Rubik", sans-serif;
+}
+
+#p {
+    font-family: "REM", sans-serif;
+}
+
+
+.website {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.colours {
+    background-color: #FCFFE9;
     text-align: center;
+    padding: 20px;
 }
 
-colours{
- font-size:30px;
- background-color: aquamarine;
-}
 
-h1.colours{
-    line-height: 0.7;
+#iphone15,
+#iphone14,
+#iphone13 {
+    text-align: center;
+    max-width: 800px;
+    margin: 10px;
+    padding: 20px;
+    background-color: #FFF2CC;
+
+    img {
+        float: left;
+    }
 }
